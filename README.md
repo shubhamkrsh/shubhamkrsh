@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shubhamkrsh
+- 👀 I’m interested in Web and App Development
+- 🌱 I’m currently learning Web Development,Python,C,Cloud etc.
